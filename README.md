@@ -1,0 +1,1 @@
+# plugins-activity-log-wp-seo
